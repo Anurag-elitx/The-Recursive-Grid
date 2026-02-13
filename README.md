@@ -10,6 +10,15 @@ A dynamic 3×3 grid puzzle with recursive ripple interactions, built with Next.j
 
 ---
 
+## Screenshots
+
+### Challenge Mode — Light Theme
+![Challenge Mode](public/screenshot.png)
+
+> The grid in action during **Challenge Mode** — tracking score, clicks, and ripple triggers in real-time. Cell `[1,1]` has reached value **15** and is now **locked** (red). Negative values from ripple effects are visible on cell `[1,2]`. The rules legend below the grid explains the ripple mechanics at a glance.
+
+---
+
 ## Overview
 
 The Recursive Grid is an interactive puzzle where clicking cells triggers cascading ripple effects across the board. Each cell tracks a numeric value that changes based on click actions and ripple rules. Cells lock permanently at value ≥ 15, creating strategic depth.
