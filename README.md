@@ -6,6 +6,8 @@ A dynamic 3×3 grid puzzle with recursive ripple interactions, built with Next.j
 ![React](https://img.shields.io/badge/React-19-61dafb?logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-4-38bdf8?logo=tailwindcss)
 
+🔗 **Live Demo:** [the-recursive-grid-beta.vercel.app](https://the-recursive-grid-beta.vercel.app)
+
 ---
 
 ## Overview
